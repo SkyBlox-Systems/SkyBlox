@@ -1,6 +1,6 @@
 # SkyBlox Systems
 
-SkyBlox Systems persoanl bot
+SkyBlox Systems personal bot
 
 ## Usage
 
